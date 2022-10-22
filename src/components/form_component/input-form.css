@@ -1,0 +1,9 @@
+.customForm{
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    height: 40px;
+    width: 25rem;
+    border-radius: 10px;
+    border-color: rgb(211, 210, 210);
+}
